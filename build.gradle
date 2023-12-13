@@ -21,7 +21,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'jacoco'
 
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.ConnectSDK'
+group='com.github.osfunapps'
 
 jacoco {
     toolVersion = "0.7.1.201405082137"
